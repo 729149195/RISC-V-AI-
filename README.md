@@ -1,1 +1,1 @@
-# RISC-V-AI-
+# AI-accelerated OS for RISC-V architecture
